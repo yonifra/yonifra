@@ -1,3 +1,8 @@
-### Hey there 👋
-
-[![Yoni's github stats](https://github-readme-stats.vercel.app/api?username=yonifra&show_icons=true&theme=radical)](https://github.com/yonifra/github-readme-stats)
+```
+                     .__  _____               
+ ___.__. ____   ____ |__|/ ____\___________   
+<   |  |/  _ \ /    \|  \   __\\_  __ \__  \  
+ \___  (  <_> )   |  \  ||  |   |  | \// __ \_
+ / ____|\____/|___|  /__||__|   |__|  (____  /
+ \/                \/                      \/ 
+ ```
