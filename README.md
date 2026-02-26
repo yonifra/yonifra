@@ -10,13 +10,16 @@
  \/                \/                      \/ 
  ```
 
-- **My tech stack:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+**My projects**
+
+[VibeShow.io](https://www.vibeshow.io) - A vibe coding showcase of apps from different users across the globe
+
+[Flowvibe.io](https://www.flowvibe.io) - Marketplace for AI skills and plugins
+
+[SuperstarTrivia](https://www.superstartrivia.com) - A music guessing game - play with your friends (multiplayer), or by yourself (single player)
+
+[RigBrag](https://www.rigbrag.com/) - Gaming site where gamers can showcase their rigs. Also has gaming news and information, with AI to help gamers analyze their rigs.
+
+[Retrocomeback](https://www.retrocomeback.com) - A retro online store - everything you'd like to buy that is retro!
+
+[Domuvo](https://www.domuvo.com) - A property manager app that allows you to keep track of houses you want to buy.
