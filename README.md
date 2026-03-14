@@ -1,8 +1,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/yonifra?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2867B2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yonifra/)](https://www.linkedin.com/in/yonifra/)
 
-[![Made by yonifra](https://gitshow.dev/api/card/yonifra)](https://gitshow.dev/yonifra)
-
 **My projects**
 
 [67cal.com](https://www.67cal.com) - Shared interactive calendars with threads, invitations, file uploads, links, live chats.
