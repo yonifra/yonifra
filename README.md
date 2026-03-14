@@ -5,6 +5,8 @@
 
 **My projects**
 
+[67cal.com](https://www.67cal.com) - Shared interactive calendars with threads, invitations, file uploads, links, live chats.
+
 [VibeShow.io](https://www.vibeshow.io) - A vibe coding showcase of apps from different users across the globe
 
 [Flowvibe.io](https://www.flowvibe.io) - Marketplace for AI skills and plugins
